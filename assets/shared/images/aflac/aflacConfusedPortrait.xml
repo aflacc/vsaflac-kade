@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflacConfusedPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Confused0000" x="12" y="12" width="747" height="593" frameX="0" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0001" x="12" y="12" width="747" height="593" frameX="0" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0002" x="785" y="12" width="746" height="592" frameX="-34" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0003" x="785" y="12" width="746" height="592" frameX="-34" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0004" x="12" y="631" width="746" height="592" frameX="-47" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0005" x="12" y="631" width="746" height="592" frameX="-47" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0006" x="784" y="631" width="746" height="592" frameX="-62" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0007" x="784" y="631" width="746" height="592" frameX="-62" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0008" x="12" y="1249" width="746" height="592" frameX="-62" frameY="0" frameWidth="808" frameHeight="593"/>
+	<SubTexture name="Confused0009" x="12" y="1249" width="746" height="592" frameX="-62" frameY="0" frameWidth="808" frameHeight="593"/>
+</TextureAtlas>

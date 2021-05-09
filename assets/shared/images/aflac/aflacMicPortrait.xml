@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aflacMicPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MicUP0000" x="12" y="12" width="746" height="592" frameX="0" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0001" x="12" y="12" width="746" height="592" frameX="0" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0002" x="784" y="12" width="746" height="592" frameX="-18" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0003" x="784" y="12" width="746" height="592" frameX="-18" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0004" x="12" y="630" width="746" height="592" frameX="-56" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0005" x="12" y="630" width="746" height="592" frameX="-56" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0006" x="784" y="630" width="746" height="592" frameX="-56" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0007" x="784" y="630" width="746" height="592" frameX="-56" frameY="0" frameWidth="802" frameHeight="592"/>
+	<SubTexture name="MicUP0008" x="784" y="630" width="746" height="592" frameX="-56" frameY="0" frameWidth="802" frameHeight="592"/>
+</TextureAtlas>

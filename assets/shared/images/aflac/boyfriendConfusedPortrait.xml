@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriendConfusedPortrait.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Confused0000" x="12" y="12" width="375" height="403" frameX="-53" frameY="0" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0001" x="12" y="12" width="375" height="403" frameX="-53" frameY="0" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0002" x="413" y="12" width="374" height="403" frameX="-26" frameY="-1" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0003" x="413" y="12" width="374" height="403" frameX="-26" frameY="-1" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0004" x="12" y="441" width="374" height="403" frameX="-13" frameY="-1" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0005" x="12" y="441" width="374" height="403" frameX="-13" frameY="-1" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0006" x="412" y="441" width="374" height="403" frameX="0" frameY="-1" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0007" x="412" y="441" width="374" height="403" frameX="0" frameY="-1" frameWidth="428" frameHeight="404"/>
+	<SubTexture name="BF Confused0008" x="412" y="441" width="374" height="403" frameX="0" frameY="-1" frameWidth="428" frameHeight="404"/>
+</TextureAtlas>

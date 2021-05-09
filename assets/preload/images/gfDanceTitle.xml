@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aflac0000" x="12" y="12" width="873" height="867" frameX="0" frameY="0" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0001" x="12" y="12" width="873" height="867" frameX="0" frameY="0" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0002" x="12" y="12" width="873" height="867" frameX="0" frameY="0" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0003" x="911" y="12" width="883" height="851" frameX="0" frameY="-16" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0004" x="1820" y="12" width="883" height="851" frameX="0" frameY="-16" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0005" x="1820" y="12" width="883" height="851" frameX="0" frameY="-16" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0006" x="2729" y="12" width="893" height="830" frameX="0" frameY="-37" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0007" x="12" y="905" width="893" height="830" frameX="0" frameY="-37" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0008" x="12" y="905" width="893" height="830" frameX="0" frameY="-37" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0009" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0010" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0011" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0012" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0013" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0014" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0015" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0016" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0017" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0018" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0019" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0020" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0021" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0022" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+	<SubTexture name="Aflac0023" x="931" y="905" width="879" height="834" frameX="0" frameY="-33" frameWidth="893" frameHeight="867"/>
+</TextureAtlas>
